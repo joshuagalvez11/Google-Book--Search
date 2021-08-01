@@ -18,7 +18,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 npm i
 
 ## Usage
-search for books   
+search for books
+deployed: https://boiling-shelf-20706.herokuapp.com/
     
 ## Credits
 Joshua Galvez
